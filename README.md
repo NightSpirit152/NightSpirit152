@@ -42,7 +42,7 @@
 
 ---
 
-### 🚀 Проекты
+### 🚀 Проекты-примеры кода
 
 - 🔗 **[graphql-fullstack-demo](https://github.com/NightSpirit152/graphql-fullstack-demo)** — мини-приложение на React/TS + Apollo Client (фронт) и C#/.NET + HotChocolate GraphQL (бэк). Показывает полный цикл: схема → резолверы → запросы на клиенте.
 - 🔗 **[dotnet-clean-api](https://github.com/NightSpirit152/dotnet-clean-api)** — ASP.NET Core Web API с EF Core, Repository pattern и unit-тестами (xUnit).
