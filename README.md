@@ -1,6 +1,6 @@
 # Привет, я Egor Sachkov 👋
 
-**Fullstack Developer** · React/TypeScript + C#/.NET · 5+ лет коммерческой разработки
+**Frontend/Fullstack Developer** · React/TypeScript + C#/.NET · 5+ лет коммерческой разработки
 
 Сейчас — Middle+ Frontend Developer в **Иннотех** (Группа компаний).
 Ранее full-stack разработчик в **ООО Аналит Фармация**, работал над продуктовой линейкой [yavapteke.ru](https://yavapteke.ru) — клиентский интерфейс аптеки/поставщика, интерфейс администратора, десктопное приложение.
