@@ -1,13 +1,14 @@
-# Привет, я Egor Sachkov 👋
+# Hi, I’m Egor Sachkov 👋
+en English | [🇷🇺 Русский](README.ru.md)
 
-**Frontend/Fullstack Developer** · React/TypeScript + C#/.NET · 5+ лет коммерческой разработки
+**Frontend/Fullstack Developer** · React/TypeScript + C#/.NET · 5+ years of commercial development
 
-Сейчас — Middle+ Frontend Developer в **Иннотех** (Группа компаний).
-Ранее full-stack разработчик в **ООО Аналит Фармация**, работал над продуктовой линейкой [yavapteke.ru](https://yavapteke.ru) — клиентский интерфейс аптеки/поставщика, интерфейс администратора, десктопное приложение.
+Currently — Middle+ Frontend Developer at **Innotech** (Group of Companies, Big Fintech).
+Previously a full-stack developer at **Analit Pharmacia LLC**, worked on the [yavapteke.ru](https://yavapteke.ru) product line — pharmacy/supplier client interface, admin interface, desktop application.
 
 ---
 
-### 🛠 Стек
+### 🛠 Tech Stack
 
 **Frontend**
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -21,7 +22,7 @@
 ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-512BD4?style=flat)
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat)
 
-**Прочее**
+**Other**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
@@ -30,35 +31,35 @@
 
 ---
 
-### 💼 Опыт
+### 💼 Experience
 
-**Старший разработчик (Frontend)** — Иннотех, Группа компаний
-`Апрель 2023 — по наст. время`
-Разработка и имплементация функциональности ИС, code review, юнит-тестирование, документирование компонентов ПО, участие в проектировании и оценке бэклога.
+**Senior Developer (Frontend)** — Innotech, Group of Companies
+`April 2023 — Present`
+Development and implementation of IS functionality, code review, unit testing, software component documentation, participation in backlog design and estimation.
 
-**Fullstack разработчик** — ООО Аналит Фармация
-`Февраль 2022 — Февраль 2023`
-Полная поддержка и реализация фронтенда, работа с бэкендом продукта [yavapteke.ru](https://yavapteke.ru). Разработка, оптимизация и рефакторинг кода, code-review, написание тестов, работа с реляционными БД (MySQL) через GraphQL и LINQ, развёртывание на инфраструктуре GitLab/Jenkins.
-
----
-
-### 🚀 Проекты-примеры кода
-
-- 🔗 **[fullstack-demo](https://github.com/NightSpirit152/fullstack-demo)** — мини-приложение на React/TS + Apollo Client (фронт) и C#/.NET + HotChocolate GraphQL (бэк). Показывает полный цикл: схема → резолверы → запросы на клиенте.
-- 🔗 **[dotnet-clean-api](https://github.com/NightSpirit152/dotnet-clean-api)** — ASP.NET Core Web API с EF Core, Repository pattern и unit-тестами (xUnit).
-- 🔗 **[react-ts-ui-kit](https://github.com/NightSpirit152/react-ts-ui-kit)** — переиспользуемые React-компоненты на TypeScript + Ant Design.
+**Fullstack Developer** — Analit Pharmacia LLC
+`February 2022 — February 2023`
+Full support and implementation of the frontend, work with the backend of the [yavapteke.ru](https://yavapteke.ru) product. Development, optimization, and refactoring of code, code review, test writing, work with relational databases (MySQL) via GraphQL and LINQ, deployment on GitLab/Jenkins infrastructure.
 
 ---
 
-### 🎓 Образование
+### 🚀 Project Code Samples
 
-- **МТУСИ**, «Информационные системы и технологии» — высшее техническое, 2025
-- **МГТУ им. Н. Э. Баумана**, программа повышения квалификации «Web-мастер» — 2022
+- 🔗 **[fullstack-demo](https://github.com/NightSpirit152/fullstack-demo)** — a mini-application with React/TS + Apollo Client (frontend) and C#/.NET + HotChocolate GraphQL (backend). Shows the full cycle: schema → resolvers → client queries.
+- 🔗 **[dotnet-clean-api](https://github.com/NightSpirit152/dotnet-clean-api)** — ASP.NET Core Web API with EF Core, Repository pattern, and unit tests (xUnit).
+- 🔗 **[react-ts-ui-kit](https://github.com/NightSpirit152/react-ts-ui-kit)** — reusable React components with TypeScript + Ant Design.
 
 ---
 
-### 📫 Контакты
+### 🎓 Education
+
+- **MTUCI**, “Information Systems and Technologies” — bachelor's degree, 2025
+- **Bauman Moscow State Technical University**, professional development program “Webmaster” — 2022
+
+---
+
+### 📫 Contacts
 
 - ✈️ Telegram: [@NightKiller152](https://t.me/NightKiller152)
 - 📧 Email: SprunkRain@gmail.com
-- Резюме: [https://career.habr.com/nightkiller152]
+- Resume: [https://career.habr.com/nightkiller152]

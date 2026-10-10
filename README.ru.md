@@ -1,4 +1,5 @@
 # Привет, я Egor Sachkov 👋
+[en English](README.md) | 🇷🇺 Русский
 
 **Frontend/Fullstack Developer** · React/TypeScript + C#/.NET · 5+ лет коммерческой разработки
 
